@@ -16,6 +16,9 @@ class Dog
   
   def sel.print_all
     @@all.each do |dog|
+      puts dog.name
+    end
+  end
     
   
   
