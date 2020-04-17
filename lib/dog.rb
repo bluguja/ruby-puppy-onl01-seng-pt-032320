@@ -15,7 +15,7 @@ class Dog
   end
   
   def sel.print_all
-    
+    @@all.each do |dog|
     
   
   
