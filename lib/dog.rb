@@ -14,6 +14,9 @@ class Dog
      @@all = []
   end
   
+  def sel.print_all
+    
+    
   
   
   
