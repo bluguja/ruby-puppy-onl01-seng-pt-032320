@@ -10,9 +10,8 @@ class Dog
     @@all 
   end
     
-    def sel.clear_all
-      
-
+  def sel.clear_all
+     @@all = []
   
   
   
