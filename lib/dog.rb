@@ -12,6 +12,9 @@ class Dog
     
   def sel.clear_all
      @@all = []
+  end
+  
+  
   
   
   
