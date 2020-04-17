@@ -8,7 +8,7 @@ class Dog
   
   def self.all
     
-def
+
   
   
   
