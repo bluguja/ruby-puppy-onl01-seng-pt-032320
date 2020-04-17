@@ -11,6 +11,7 @@ class Dog
   end
     
     def sel.clear_all
+      
 
   
   
