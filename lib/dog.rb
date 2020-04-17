@@ -10,7 +10,7 @@ class Dog
     @@all 
   end
     
-    
+    def sel.clear_all
 
   
   
